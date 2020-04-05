@@ -22,7 +22,7 @@ I have seen multiple awesome portfolio websites. They are all nice but they all 
 The essence therefore of this project is to tackle all these mninor issues we see on portfolio websites today. The idea here is to create an awwesome web developer portfolio website that would immediately clear all the doubts of a potential employer.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/portfolio.png)
 
 ## Technologies
 * Gatsby
@@ -35,24 +35,12 @@ The essence therefore of this project is to tackle all these mninor issues we se
 Describe how to install / setup your local environement / add link to demo version.
 
 ## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
 
 ## Status
 Project is: _in progress
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Add here credits. Project inspired by Charles, based on https://francescamcwhirter.com/
 
 ## Contact
 Created by [@charlesnnanna](charlesnnanna1667@gmail.com) - feel free to contact me!
