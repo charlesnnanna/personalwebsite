@@ -1,0 +1,36 @@
+{
+  "name": "charles-uthulor",
+  "version": "1.0.0",
+  "description": "Charles' portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesnnanna/personalwebsite.git"
+  },
+  "keywords": [
+    "portfolio",
+    "personal-website",
+    "charles",
+    "brand",
+    "company"
+  ],
+  "author": "Charles Uthulor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesnnanna/personalwebsite/issues"
+  },
+  "homepage": "https://github.com/charlesnnanna/personalwebsite#readme",
+  "dependencies": {
+    "gatsby": "^2.20.8",
+    "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-typography": "^2.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19"
+  }
+}

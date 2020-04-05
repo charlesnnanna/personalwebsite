@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Monoton&display=swap');
+
+
+.layout{
+    margin : 23px 90px ;
+}
+
+.fulllist{
+    list-style-type: none;
+    margin-top: 36px;
+    text-decoration: none;
+    float : right;
+    box-shadow: 0px;
+    border : 1px solid inherit;
+    
+
+}
+
+.ListLink {
+    
+    border : 1px solid inherit;
+    color : black;
+    overflow: hidden;
+    text-decoration: none; 
+    display: block;
+    font-family: 'Cabin Sketch';
+    text-transform: uppercase;
+    
+    
+}
+
+.header{
+
+    border: 1px solid inherit;
+    overflow: hidden;
+    height : 65px;
+    
+}
