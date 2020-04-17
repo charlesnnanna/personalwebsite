@@ -3,7 +3,7 @@ import {Link} from 'gatsby';
 import Layout from '../components/layout';
 import Grid from "../components/grid";
 import gridStyles from '../styles/grid.module.css';
-import Background from '../grid.jpg';
+
 
 const Tester = () => {
     return (
