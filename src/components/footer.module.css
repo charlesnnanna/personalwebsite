@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Monoton&display=swap');
+
+.footer1{
+    border : 1px solid inherit;
+    background-color: white;
+    position: fixed;
+    transform: rotate(-90deg);
+    width : 50%;
+    height: 100px;
+    text-align: center;
+    margin-top: -850px;
+    margin-left: -298px;
+    padding-top: 33px;
+    font-family: Cabin Sketch;
+    font-size: 13px;
+    text-transform: uppercase;
+    
+}
+
+
+
+.footer2{
+    border : 1px solid inherit;
+    background-color: white;
+    position: fixed;
+    transform: rotate(90deg);
+    width : 50%;
+    height: 100px;
+    text-align: center;
+    margin-top: -850px;
+    margin-left: 972.5px;
+    padding-top: 33px;
+    font-family: Cabin Sketch;
+    font-size: 13px;
+    text-transform: uppercase;
+}
