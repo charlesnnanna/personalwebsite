@@ -1,5 +1,5 @@
 
-# Charles Uthulor / Your Name Personal Portfolio Website
+# Your Personal Portfolio Website
 > This is a portfolio website. Let's see if we can put hands together to create the perfect portfolio website.
 
 ## Table of contents
