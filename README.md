@@ -1,5 +1,5 @@
 
-# CuCodes - A Personal Website
+# Charles Uthulor / Your Name Personal Portfolio Website
 > This is a portfolio website. Let's see if we can put hands together to create the perfect portfolio website.
 
 ## Table of contents
@@ -7,7 +7,6 @@
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -32,15 +31,17 @@ The essence therefore of this project is to tackle all these mninor issues we se
 * Git
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
+* Clone the repository
+* Navigate to the site folder in your terminal
+* Run npm install
+* After the dependencies finish installing, run gatsy develop on ypur terminal
+* Open your browser and type localhost:8000 to view the website
 
 ## Status
 Project is: _in progress
 
 ## Inspiration
-Add here credits. Project inspired by Charles, based on https://francescamcwhirter.com/
+Project inspired by Charles, based on https://francescamcwhirter.com/
 
 ## Contact
 Created by [@charlesnnanna](charlesnnanna1667@gmail.com) - feel free to contact me!
