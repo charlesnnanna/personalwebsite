@@ -1,7 +1,9 @@
 import React from 'react';
-import myImage from '../logo.png';
+import myImage from '../images/logo.png';
 import {Link} from 'gatsby';
 import LayoutStyles from '../styles/layout.module.css';
+import FooterStyles from '../components/footer.module.css'
+import Footer from './footer';
 
 const ListLink = props => (
     <li  style = {{display : `inline-block`, marginRight : `40px`}}>
@@ -12,6 +14,9 @@ const ListLink = props => (
 
 const Layout = ({children}) => {
     return (
+        <div>
+
+        
         <div className = {LayoutStyles.layout}>
             <header className = {LayoutStyles.header} style = {{marginBottom : `1rem`, marginTop : `0`}}>
             <Link to = '/'>
@@ -39,6 +44,9 @@ const Layout = ({children}) => {
 
                
            
+        </div>
+        <Footer/>
+
         </div>
     )
 }
